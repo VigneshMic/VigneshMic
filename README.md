@@ -29,9 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vignesh-mic-p-148811158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh-mic-p-148811158" height="70" width="100" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31942541/vignesh-mic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/31942541/vignesh-mic" height="70" width="100" /></a>
-<a href="/https://mic-data.blogspot.com/2024/05/journey-with-data-towards-data-analyst.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mic-data.blogspot.com/2024/05/journey-with-data-towards-data-analyst.html" height="70" width="100" /></a>
+<a href="https://linkedin.com/in/vignesh-mic-p-148811158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh-mic-p-148811158" height="40" width="70" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31942541/vignesh-mic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/31942541/vignesh-mic" height="40" width="70" /></a>
+<a href="/https://mic-data.blogspot.com/2024/05/journey-with-data-towards-data-analyst.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mic-data.blogspot.com/2024/05/journey-with-data-towards-data-analyst.html" height="40" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
